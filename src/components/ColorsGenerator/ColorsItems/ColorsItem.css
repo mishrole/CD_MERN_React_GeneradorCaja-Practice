@@ -1,0 +1,19 @@
+.box {
+  display: inline-block;
+  margin: 1em;
+  position: relative;
+}
+
+.delete {
+  background: transparent;
+  border: white;
+  border-radius: 50%;
+  background-color: #f0f0f0;
+  color: red;
+  font-size: 12px;
+  font-weight: bolder;
+  height: 25px;
+  position: absolute;
+  right: 0;
+  width: 25px;
+}
